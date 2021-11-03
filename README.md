@@ -1,2 +1,2 @@
 # OrderSystemKPR
-Ojednávkový systém knížky pro rozvoj
+Objednávkový systém knížky pro rozvoj
